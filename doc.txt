@@ -1,0 +1,5 @@
+- create project maven
+- add code from https://mvnrepository.com/artifact/org.springframework/spring-context/5.3.18
+to pom.xlm
+
+Bean is dependencing Injection (remem)
